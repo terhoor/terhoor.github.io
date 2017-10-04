@@ -23,4 +23,4 @@
 
 [Урок 15](https://terhoor.github.io/lesson_15 "Урок 15" ) - превдоклассы :hover и псевдоэлемент ::before
 
-[Урок 16](https://terhoor.github.io/lesson_15 "Урок 16" ) - слайдер
+[Урок 16](https://terhoor.github.io/lesson_16 "Урок 16" ) - слайдер
