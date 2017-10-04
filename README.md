@@ -15,7 +15,7 @@
 
 [Урок 10](https://github.com/terhoor/terhoor.github.io/blob/master/lesson_10/main.less/ "Урок 10" )
 
-[Урок 12](https://terhoor.github.io/lesson_12 "Урок 12" )
+[Урок 12](https://github.com/terhoor/terhoor.github.io "Урок 12" )
 
 [Урок 13](https://terhoor.github.io/lesson_13 "Урок 13" )
 
