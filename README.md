@@ -19,6 +19,8 @@
 
 [Урок 13](https://terhoor.github.io/lesson_13 "Урок 13" ) - вёрстка PixelPerfect
 
+[Урок 13.1](https://terhoor.github.io/lesson_13.1 "Урок 13.1" ) - Практика. Часть 1 - вёрстка шапки
+
 [Урок 14](https://terhoor.github.io/lesson_14 "Урок 14" ) - подбор шрифтов
 
 [Урок 15](https://terhoor.github.io/lesson_15 "Урок 15" ) - превдоклассы :hover и псевдоэлемент ::before
