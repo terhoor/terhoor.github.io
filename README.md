@@ -17,7 +17,7 @@
 
 [Урок 12](https://github.com/terhoor/terhoor.github.io "Урок 12" ) - работа с репозиторием на GitHub
 
-[Урок 13](https://terhoor.github.io/lesson_13 "Урок 13" ) - вёпстка PixelPerfect
+[Урок 13](https://terhoor.github.io/lesson_13 "Урок 13" ) - вёрстка PixelPerfect
 
 [Урок 14](https://terhoor.github.io/lesson_14 "Урок 14" ) - подбор шрифтов
 
