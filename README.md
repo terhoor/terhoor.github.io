@@ -5,7 +5,7 @@
 
 [Урок 5](https://terhoor.github.io/lesson_5 "Урок 5" )
 
-[Урок 6.1](https://terhoor.github.io/lesson_6.1 "Урок 6.1" ) и [Урок 6.1](terhoor.github.io/lesson_6.2 "Урок 6.2" )
+[Урок 6.1](https://terhoor.github.io/lesson_6.1 "Урок 6.1" ) и [Урок 6.1](https://terhoor.github.io/lesson_6.2 "Урок 6.2" )
 
 [Урок 7](https://terhoor.github.io/lesson_7 "Урок 7" )
 
