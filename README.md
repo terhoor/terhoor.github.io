@@ -30,8 +30,8 @@
 
 [Урок 15](https://terhoor.github.io/lesson_15/ "Урок 15" ) - превдоклассы :hover и псевдоэлемент ::before
 
-....
+[Урок 15.1](https://terhoor.github.io/lesson_15.3/ "практика" ) - практика 3
 
-[Урок 15.1](https://terhoor.github.io/lesson_15.1 "практика" ) - практика 3
+.... coming soon ....
 
 [Урок 16](https://terhoor.github.io/lesson_16 "Урок 16" ) - слайдер
