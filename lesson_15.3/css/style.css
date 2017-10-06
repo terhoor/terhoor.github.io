@@ -176,6 +176,9 @@ a:focus {
   }
 }
 @media (max-width: 767px) {
+  html {
+    font-size: 8px;
+  }
   .main {
     background-position: top left;
   }
@@ -193,10 +196,13 @@ a:focus {
   .wrap-block {
     text-align: center;
   }
-}
-/* Костыль ;D */
-@media (max-width: 500px) {
-  html {
-    font-size: 8px;
+  .large {
+    display: none;
   }
 }
+@media (min-width: 768px) {
+  .mobile {
+    display: none;
+  }
+}
+/* Костыль ;D */
