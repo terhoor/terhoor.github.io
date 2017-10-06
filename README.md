@@ -32,6 +32,6 @@
 
 [Урок 15.1](https://terhoor.github.io/lesson_15.3/ "практика" ) - Практика Часть 3 - адаптив первого экрана
 
-.... coming soon ....
+[Урок 16](https://terhoor.github.io/lesson_16/ "Урок 16" ) - слайдер
 
-[Урок 16](https://terhoor.github.io/lesson_16 "Урок 16" ) - слайдер
+.... coming soon ....
