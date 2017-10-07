@@ -34,4 +34,6 @@
 
 [Урок 16](https://terhoor.github.io/lesson_16/ "Урок 16" ) - слайдер
 
+[Урок 16.1](https://terhoor.github.io/lesson_16.1/ "практика" ) - верстаем и настраиваем слйдер
+
 .... coming soon ....
