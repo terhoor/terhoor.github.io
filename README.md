@@ -36,4 +36,6 @@
 
 [Урок 16.1](https://terhoor.github.io/lesson_16.4/ "практика" ) - верстаем и настраиваем слйдер
 
+[Урок 17](https://terhoor.github.io/lesson_17/ "Урок 17" ) - Выплывающее окно на bootstrap
+
 .... coming soon ....
