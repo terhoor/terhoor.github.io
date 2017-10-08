@@ -1,8 +1,7 @@
-"# terhoor.github.io" 
 
-Еливанов Денис
+# Еливанов Денис
 
-Мои домашние задания
+## Мои домашние задания
 
 [Урок 4](https://terhoor.github.io/lesson_4/ "Урок 4" ) - сверстанная только на html книжка
 
@@ -34,8 +33,10 @@
 
 [Урок 16](https://terhoor.github.io/lesson_16/ "Урок 16" ) - слайдер
 
-[Урок 16.1](https://terhoor.github.io/lesson_16.4/ "практика" ) - верстаем и настраиваем слйдер
+[Урок 16.1](https://terhoor.github.io/lesson_16.4/ "практика" ) - верстаем и настраиваем слайдер
 
 [Урок 17](https://terhoor.github.io/lesson_17/ "Урок 17" ) - Выплывающее окно на bootstrap
+
+[Урок 17.1](https://terhoor.github.io/lesson_17.5/ "практика" ) - вёрстка и подключение всплывающего окна в шапке сайта
 
 .... coming soon ....
