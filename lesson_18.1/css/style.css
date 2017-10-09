@@ -137,6 +137,24 @@ textarea:focus {
   .my-btn {
     position: static;
     display: block;
-    margin: 2rem 0;
+    margin: 3rem auto;
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  .others {
+    text-align: center;
+    margin-left: 0;
+  }
+  .others-link {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 375px) {
+  .main-title {
+    font-size: 3.6rem;
+  }
+  html {
+    font-size: 7px;
   }
 }
