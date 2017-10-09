@@ -19,5 +19,7 @@
 16. [Урок 16.1](https://terhoor.github.io/lesson_16.4/ "практика" ) - верстаем и настраиваем слайдер
 17. [Урок 17](https://terhoor.github.io/lesson_17/ "Урок 17" ) - Выплывающее окно на bootstrap
 18. [Урок 17.1](https://terhoor.github.io/lesson_17.5/ "практика" ) - вёрстка и подключение всплывающего окна в шапке сайта
+19. [Урок 18](https://terhoor.github.io/lesson_18/ "Урок 18" ) - верстаем аккардион
+20. [Урок 18.1](https://terhoor.github.io/lesson_18.1/ "Урок 18.1" ) - верстаем форму регистрации с "tabs"
 
 .... coming soon ....

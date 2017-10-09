@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=cyrillic');
+.main {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 10px;
+  height: 100vh;
+  background: url(../img/bg-head.jpg) center no-repeat;
+}
+.main-header {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 7rem 0;
+}
+.main-header strong {
+  color: #0bbaf0;
+  display: block;
+  font-size: 3.6rem;
+}
+.main-header span {
+  color: #5ed0f4;
+  font-size: 2.4rem;
+}
+.change-title {
+  font-size: 2.3rem;
+}
+.change-title a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.change-body {
+  font-size: 2.2rem;
+  border: 4px solid #dcdcdc;
+  border-radius: 0px 0px 10px 10px;
+  margin: 0 1rem;
+}
+/* Зона костылей */
+.panel-default > .panel-heading {
+  background-color: #0bbaf0;
+}
+.panel-default {
+  border: none;
+}
