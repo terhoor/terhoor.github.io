@@ -53,9 +53,6 @@ textarea:focus {
   font-size: 1.8rem;
   padding: 1rem 3rem;
 }
-.mobile {
-  display: none;
-}
 .header {
   height: 7rem;
 }
@@ -79,6 +76,9 @@ textarea:focus {
   height: 7rem;
   line-height: 7rem;
   color: #1a1820;
+}
+.mobile {
+  display: none;
 }
 /* main */
 .main {
