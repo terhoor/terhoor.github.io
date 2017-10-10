@@ -77,7 +77,7 @@ textarea:focus {
   line-height: 7rem;
   color: #1a1820;
 }
-.mobile {
+.mobile-type {
   display: none;
 }
 /* main */
@@ -364,7 +364,7 @@ textarea:focus {
   .large {
     display: none;
   }
-  .mobile {
+  .mobile-type {
     display: block;
   }
 }
