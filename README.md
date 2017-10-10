@@ -10,17 +10,17 @@
 7. [Урок 10](https://github.com/terhoor/terhoor.github.io/blob/master/lesson_10/main.less/ "Урок 10" ) - знакомство с less(LESS код)
 8. [Урок 12](https://github.com/terhoor/terhoor.github.io "Урок 12" ) - работа с репозиторием на GitHub
 9. [Урок 13](https://terhoor.github.io/lesson_13 "Урок 13" ) - вёрстка PixelPerfect
-10. [Урок 13.1](https://terhoor.github.io/lesson_13.1 "практика" ) - Практика Часть 1 - вёрстка шапки
+10. [Вёрстка сайта](https://terhoor.github.io/lesson_13.1 "практика" ) - Практика Часть 1 - вёрстка шапки
 11. [Урок 14](https://terhoor.github.io/lesson_14/ "Урок 14" ) - подбор шрифтов
-12. [Урок 14.1](https://terhoor.github.io/lesson_14.2/ "практика" ) - Практика Часть 2 - вёрстка первого экрана
+12. [Вёрстка сайта](https://terhoor.github.io/lesson_14.2/ "практика" ) - Практика Часть 2 - вёрстка первого экрана
 13. [Урок 15](https://terhoor.github.io/lesson_15/ "Урок 15" ) - превдоклассы :hover и псевдоэлемент ::before
-14. [Урок 15.1](https://terhoor.github.io/lesson_15.3/ "практика" ) - Практика Часть 3 - адаптив первого экрана
+14. [Вёрстка сайта](https://terhoor.github.io/lesson_15.3/ "практика" ) - Практика Часть 3 - адаптив первого экрана
 15. [Урок 16](https://terhoor.github.io/lesson_16/ "Урок 16" ) - слайдер
-16. [Урок 16.1](https://terhoor.github.io/lesson_16.4/ "практика" ) - верстаем и настраиваем слайдер
+16. [Вёрстка сайта](https://terhoor.github.io/lesson_16.4/ "практика" ) - Практика Часть 4 - верстаем и настраиваем слайдер
 17. [Урок 17](https://terhoor.github.io/lesson_17/ "Урок 17" ) - Выплывающее окно на bootstrap
-18. [Урок 17.1](https://terhoor.github.io/lesson_17.5/ "практика" ) - вёрстка и подключение всплывающего окна в шапке сайта
+18. [Вёрстка сайта](https://terhoor.github.io/lesson_17.5/ "практика" ) - Практика Часть 5 - вёрстка и подключение всплывающего окна в шапке сайта
 19. [Урок 18](https://terhoor.github.io/lesson_18/ "Урок 18" ) - верстаем аккардион
 20. [Урок 18.1](https://terhoor.github.io/lesson_18.1/ "Урок 18.1" ) - верстаем форму регистрации с "tabs"
-21. [Урок 18.6](https://terhoor.github.io/lesson_18.6/ "практика" ) - вёрстка блока услуг
+21. [Вёрстка сайта](https://terhoor.github.io/lesson_18.6/ "практика" ) - Практика Часть 6 - вёрстка блока услуг
 
 .... coming soon ....

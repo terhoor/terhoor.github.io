@@ -81,6 +81,45 @@ button, input, a, textarea {
 		padding: 1rem 3rem;
 	}
 
+
+
+
+.header {
+	height: 7rem;
+}
+
+.wrap {
+	display: table;
+	width: 100%;
+	height: 7rem;
+	&-block {
+		display: table-cell;
+		vertical-align: middle;
+		text-align: right;
+	}
+}
+.phone {
+	&-block {
+	text-align: right;
+	}
+	&-link {
+		display: inline-block;
+		.bold();
+		font-size: 2rem;
+		height: 7rem;
+		line-height: 7rem;
+		color: @text;
+	}
+}
+.mobile {
+		display: none;
+	}
+
+
+
+
+
+
 /* main */
 .main {
 	
@@ -175,36 +214,6 @@ button, input, a, textarea {
 
 
 
-
-.header {
-	height: 7rem;
-}
-
-.wrap {
-	display: table;
-	width: 100%;
-	height: 7rem;
-	&-block {
-		display: table-cell;
-		vertical-align: middle;
-		text-align: right;
-	}
-}
-.phone {
-	&-block {
-	text-align: right;
-	}
-	&-link {
-		display: inline-block;
-		.bold();
-		font-size: 2rem;
-		height: 7rem;
-		line-height: 7rem;
-		color: @text;
-	}
-}
-
-
 .section-header {
 	text-align: center;
 	.bold();
@@ -275,10 +284,9 @@ button, input, a, textarea {
 		background-color: @light;
 		padding: 3rem 3rem;
 		text-align: center;
+		margin-bottom: 2rem;
+		box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
 	}
-		&-block {
-			margin-bottom: 2rem;
-		}
 
 		&-item-1 {
 			.bold();
@@ -393,10 +401,13 @@ button, input, a, textarea {
 	}
 }
 
-@media (max-width: 767px) {
+@media (max-width: 390px) {
 	 html {
 		font-size: 8px;
 	} 
+}
+
+@media (max-width: 767px) {
 
 	.main {
 		background-position: top left;
@@ -447,6 +458,9 @@ button, input, a, textarea {
 	.service-bl-btn {
 		margin: 2rem 0;
 		text-align: center;
+	}
+	.service-header-light h2 {
+		margin-bottom: 1rem;
 	}
 }
 
