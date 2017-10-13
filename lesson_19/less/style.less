@@ -1,0 +1,211 @@
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('../fonts/MyriadPro-Regular.eot');
+	src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+		url('../fonts/MyriadPro-Regular.woff') format('woff'),
+		url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+		url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@color1: #03a2d6;
+@color2: #0bbaf0;
+@light: #ffffff;
+@black-pl: #080808;
+@black: #000000;
+@form: #1f1e1e;
+@f-botton: #6f6d6d;
+@btn-red: #830601;
+@btn-c-r: #cc412a;
+
+
+.MyP() {
+	font-family: 'MyriadPro';
+}
+
+.placeH() {
+	::-webkit-input-placeholder { /* WebKit browsers */
+	   color: @light;
+	}
+	:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	   color: @light;
+	}
+	::-moz-placeholder { /* Mozilla Firefox 19+ */
+	   color: @light;
+	}
+	:-ms-input-placeholder { /* Internet Explorer 10+ */
+	   color: @light;
+	}
+}
+
+
+html {
+	.MyP();
+	font-size: 10px;
+}
+
+ button, input, a, textarea {
+	&:focus {
+		outline: none !important;
+	}
+}
+
+.change {
+	margin-left: 2.5rem;
+	
+}
+
+
+ .main {
+ 	&-wrapper {
+ 		// width: 540px;
+ 		padding: 2rem;
+ 		border-radius: 4px;
+ 		background-color: @color1;
+ 	}
+ 	&-content {
+ 		background-color: @black;
+ 		padding: 6rem 4rem 3rem ;
+ 		position: relative;
+ 	}
+
+ 	&-title {
+ 		margin-bottom: 3rem;
+ 		text-align: center;
+ 		color: @light;
+ 	}
+ }
+
+ .form {
+ 	.placeH();
+ 	&-input {
+ 		display: block;
+ 		width: 100%;
+ 		padding: 1.5rem 2rem;
+ 		background-color: @form;
+ 		border: none;
+ 		border-radius: 3px;
+ 		font-size: 2.4rem;
+ 		color: @light;
+ 	}
+ 	&-input:nth-child(1) {
+ 		margin-bottom: 2.5rem;
+ 	}
+ 	&-input:nth-child(2) {
+ 		margin-bottom: 2.5rem;
+ 	}
+ }
+
+.others {
+	margin-left: 2.5rem;
+	font-size: 1.5rem;
+	&-link {
+	display: block;
+	margin-top: 2rem;
+	margin-bottom: 5rem;
+	color: @btn-c-r;
+	}
+	&-bot {
+		color: @f-botton;
+		input {
+			margin-right: 6px;
+		}
+	}
+
+}
+
+.my-btn {
+
+	position: absolute;
+	bottom: 1.3rem;
+	right: 0;
+	padding: 1.2rem 4rem 1.2rem 2.7rem;
+	transform: translateX(30%);
+	background: radial-gradient(@btn-c-r, @btn-red);
+	color: @light;
+	font-size: 2.4rem;
+	border-radius: 0;
+	border: none;
+	transition: all 0.2s;
+	&-double {
+		transform: translateX(14%);
+	}
+
+	&:hover {
+		color: #60261c;
+		background: radial-gradient(#d62507, @btn-red);
+		cursor: pointer;
+		outline: none;
+	}
+}
+
+
+
+/* Зона костылей */
+
+.nav-tabs>li.active>a,
+ .nav-tabs>li.active>a:focus, 
+ .nav-tabs>li.active>a:hover {
+ 	background-color: @color1;
+ }
+
+.nav>li>a  {
+	padding: 0.8rem 2.5rem;
+	color: @black-pl;
+	font-size: 2.4rem;
+}
+
+
+ .nav-tabs>li.active>a, 
+ .nav-tabs>li.active>a:focus, 
+ .nav-tabs>li.active>a:hover {
+ 	color: @light;
+ }
+
+
+
+
+ @media (max-width: 768px) {
+ 	
+ 	html {
+ 		font-size: 8px;;
+ 	}
+
+ 	.main-wrapper {
+		width: 100%;
+	}
+
+	.main-title {
+		margin-bottom: 30px;
+	}
+ }
+
+  @media (max-width: 450px) {
+	.my-btn {
+		position: static;
+		display: block;
+		margin: 3rem auto;
+		transform: translateX(0);
+		
+	}
+	.others {
+		text-align: center;
+		margin-left: 0;
+	}
+	.others-link {
+		margin-top: 3rem;
+		margin-bottom: 2rem;
+	}
+
+  }
+
+  @media (max-width: 375px) {
+  	.main-title{
+  		font-size: 3.6rem;
+  	}
+  	html {
+ 		font-size: 7px;;
+ 	}
+  }
