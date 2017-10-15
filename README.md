@@ -25,4 +25,5 @@
 22. [Урок 19](https://terhoor.github.io/lesson_19/ "урок 19" ) - Анимация на CSS3
 23. [Вёрстка сайта](https://terhoor.github.io/lesson_19.7/ "практика" ) - Практика Часть 7 - Верстка блока с отзывами
 24. [Урок 20](https://terhoor.github.io/lesson_20/ "урок 20" ) - Видео фон на сайте
+
 .... coming soon ....
