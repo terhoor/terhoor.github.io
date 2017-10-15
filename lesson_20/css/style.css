@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+}
+.section {
+  min-height: 100vh;
+  text-align: center;
+  width: 100%;
+  display: table;
+}
+
+.wrapp-box {
+  display: table-cell;
+  vertical-align: middle;
+  color: #fff;
+  animation: goleft 2s, tada 1s 2s;
+}
+
+@keyframes goleft{
+  from {
+   transform: translateY(-50%);
+    opacity: 0;
+  }
+  to {
+   transform: translateX(0%);
+    opacity: 1;
+  }
+}
+
+@keyframes tada {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
