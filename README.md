@@ -26,5 +26,6 @@
 23. [Вёрстка сайта](https://terhoor.github.io/lesson_19.7/ "практика" ) - Практика Часть 7 - Верстка блока с отзывами
 24. [Урок 20](https://terhoor.github.io/lesson_20/ "урок 20" ) - Видео фон на сайте
 25. [Вёрстка сайта](https://terhoor.github.io/lesson_20.8/ "практика" ) - Практика Часть 8 - Доверстали блок с отзывами + адаптив
+26. [Урок 21](https://terhoor.github.io/lesson_21/ "урок 21" ) - Parallax эффект для сайта
 
 .... coming soon ....
