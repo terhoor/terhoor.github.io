@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+@ff: 'Open Sans', sans-serif;
+.bold() {
+	font-weight: 600;
+}
+html {
+	font-size: 14px;
+}
+body {
+	font-family: @ff;
+}
+.container-fluid{
+	position: relative;
+	padding: 0;
+}
+
+.logos {
+	position: relative;
+	height: 7rem;
+	img {
+		position: absolute;
+		margin: auto;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		right: 0;
+	}
+}
+.logo-title {
+	display: table;
+	height: 7rem;
+	padding-left: 0;
+	&-wrap {
+		display: table-cell;
+		vertical-align: middle;
+		font-size: 1.1rem;
+		.bold();
+	}
+}
+.certificate {
+	height: 7rem;
+	display: table;
+	&-wrap {
+		display: table-cell;
+		vertical-align: middle;
+	}
+}
+.address {
+	display: table;
+	height: 7rem;
+	&-align {
+	display: table-cell;
+	vertical-align: middle;
+	}
+	span {
+		display: block;
+		.bold();
+		font-size: 1.4rem;
+	}
+}
+.block {
+	position: absolute;
+	top: 0;
+	left: 20rem;
+	height: 100%;
+	background: #c60b0b;
+	color: #ffffff;
+	a {
+		color: #ffffff;
+		text-decoration: underline;
+	}
+	h1 {
+		margin-bottom: 2rem;
+	}
+	p {
+		margin-bottom: 2rem;
+	}
+	text-align: center;
+	padding: 2rem 4rem;
+}
+@media (max-width: 992px) {
+	.address {
+		text-align: center;
+	}
+	.logo-title-wrap {
+		text-align: center;
+		
+	}
+}
+@media (max-width: 1200px) {
+	.red-square {
+		left: 8rem;
+	}
+}
