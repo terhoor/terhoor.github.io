@@ -28,6 +28,6 @@
 25. [Вёрстка сайта](https://terhoor.github.io/lesson_20.8/ "практика" ) - Практика Часть 8 - Доверстали блок с отзывами + адаптив
 26. [Урок 21](https://terhoor.github.io/lesson_21/ "урок 21" ) - Parallax эффект для сайта
 27. [Вёрстка сайта](https://terhoor.github.io/lesson_21.9/ "практика" ) - Практика Часть 8 - Верстаем схему работы и все включено
-28. [Урок 22](https://terhoor.github.io/lesson_23/ "урок 22" ) - карты для сайта
+28. [Урок 22](https://terhoor.github.io/lesson_22/ "урок 22" ) - карты для сайта
 
 .... coming soon ....
