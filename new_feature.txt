@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 it is new feature document
 asdasdadsasda
+=======
+no iXt is new feature document, no
+>>>>>>> 66a1f11cb13776fd03a8d20bab0db04afebd3da4
