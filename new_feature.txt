@@ -2,3 +2,6 @@ it is new feature document
 asdasdadsasda
 no iXt is new feature document, no
 
+function() {
+	return 1 +2
+}
