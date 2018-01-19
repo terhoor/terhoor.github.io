@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 no iXt is new feature document, no
+=======
+it is new feature document. hello world!
+>>>>>>> another commit
