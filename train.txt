@@ -5,6 +5,7 @@ function powerFunc (a, b) {
 	for (var i = b; i > 0; i--) {
 		power += a * a;
 	}
+	return power;
 }
 
 powerFunc(4, 2);
