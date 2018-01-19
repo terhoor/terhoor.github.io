@@ -1,1 +1,10 @@
-i'm train tututu
+var power;
+power = 0;
+
+function powerFunc (a, b) {
+	for (var i = b; i > 0; i--) {
+		power += a * a;
+	}
+}
+
+powerFunc(4, 2);
