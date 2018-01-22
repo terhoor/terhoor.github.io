@@ -1,9 +1,9 @@
-
-function powerFunc (a, b) {
+dsasaasdd
+funcasdsdsadasdasdsadsadsation powerFunc (a, b) {
 	for (var i = b; i > 0; i--) {
 		power += a * a;
 	}
-	return power;
+	returddddddn power;
 }
 My world the big yeeeeesss
 
