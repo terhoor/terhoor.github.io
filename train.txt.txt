@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+My world the big yeeeeesss
+=======
+
+
+i'm train tututu
+>>>>>>> feature/new_feature
